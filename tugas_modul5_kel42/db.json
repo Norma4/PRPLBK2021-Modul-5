@@ -1,0 +1,49 @@
+{
+    "profil": [
+        {
+          "id": 1,
+          "nama": "Andi Santri",
+          "nim": "1111",
+          "ttl": "Amerika, 1 Januari 2001",
+          "jk": "Laki-laki",
+          "alamat": "Amerika",
+          "email": "andi@mail.com"
+        },
+        {
+          "id": 2,
+          "nama": "Budi Padi",
+          "nim": "2222",
+          "ttl": "Bandung, 2 Februari 2002",
+          "jk": "Laki-laki",
+          "alamat": "Bandung",
+          "email": "budi@mail.com"
+        },
+        {
+          "id": 3,
+          "nama": "Cindi Dewi",
+          "nim": "3333",
+          "ttl": "Cikarang, 3 Maret 2003",
+          "jk": "Perempuan",
+          "alamat": "Cikarang",
+          "email": "cindi@mail.com"
+        },
+        {
+          "id": 4,
+          "nama": "Dendi Kendi",
+          "nim": "4444",
+          "ttl": "Demak, 4 April 2004",
+          "jk": "Laki-laki",
+          "alamat": "Demak",
+          "email": "dendi@mail.com"
+        },
+        {
+          "id": 5,
+          "nama": "Elfi Stroberi",
+          "nim": "5555",
+          "ttl": "Semarang, 5 Mei 2005",
+          "jk": "Perempuan",
+          "alamat": "Semarang",
+          "email": "elfi@mail.com"
+        }
+    ]
+}
