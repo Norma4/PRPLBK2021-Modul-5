@@ -1,0 +1,13 @@
+.contentWrapper {
+    display: flex;
+    align-items: flex-start;
+    height: 100vh;
+}
+
+.light {
+    background: rgb(255, 255, 255);
+}
+
+.dark {
+    background: rgb(46, 30, 30);
+}
